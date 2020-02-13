@@ -39,7 +39,7 @@ title: International PBl Course of Software Project Management - Tokyo Tech
 		<td><b>PBL</b><br>business idea<br>lean canvas</td>
 		<td><b>PBL</b><br>business model</td>
 		<td>teamwork</td>
-		<td rowspan=2><b>Presentations:</b>
+		<td rowspan='2'><b>Presentations:</b>
 			<ul>
 			<li>product
 			<li>fund raising (demos)
@@ -57,6 +57,7 @@ title: International PBl Course of Software Project Management - Tokyo Tech
 		<td></td>
 	</tr>
 </table>
+
 
 ### Slides
 
