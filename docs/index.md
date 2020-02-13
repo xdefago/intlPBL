@@ -61,11 +61,11 @@ title: International PBl Course of Software Project Management - Tokyo Tech
 ### Slides
 
 - Day 1:
-  - [PBL orientation](slides/Day1_20200212.pdf)
+  - [PBL orientation](slides/Day1_20200212.pdf) <small><i>(req. password)</i></small>
   - Lecture
 - Day 2: PBL
   - Lecture
-  - PBL orientation
+  - [PBL orientation](slides/Day2_20200213.pdf)
 - Day 3:
   - Lecture
   - PBL orientation
